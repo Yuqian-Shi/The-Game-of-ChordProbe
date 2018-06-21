@@ -1,5 +1,5 @@
 # The Game of ChordProbe
-Code for Project one of Declarative Programming(COMP90048) in Unimelb.
+Code for project one of Declarative Programming(COMP90048) in Unimelb.
 
 ---
 
